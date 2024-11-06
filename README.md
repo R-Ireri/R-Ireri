@@ -6,10 +6,13 @@ I'm drawn to the power of code to create innovative solutions and solve real-wor
 
 Let's collaborate on:
 
-Open-source projects that contribute to the developer community
-Web applications that enhance user experiences
-Data-driven projects that uncover insights and drive decision-making
-Reach out to me on [Your preferred platform, e.g., LinkedIn, GitHub, Twitter]
+>Open-source projects that contribute to the developer community
+
+>Web applications that enhance user experiences
+
+>Data-driven projects that uncover insights and drive decision-making
+
+Reach out to me on [ LinkedIn, GitHub, email]
 
 Pronouns: She/her
 
