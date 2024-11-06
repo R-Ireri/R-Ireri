@@ -1,4 +1,4 @@
-👋 Hi, I'm @R-Ireri
+👋 Hi, I'm @Rita Ireri
 
 I'm a passionate web and software developer, always excited to explore the latest technologies and trends. I'm currently diving deep into the world of [Specific Front-End Technology, e.g., React, Angular, Vue.js] and am eager to transition into backend development with languages like [Specific Back-End Technology, e.g., Python, Node.js, Ruby on Rails].
 
