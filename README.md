@@ -16,7 +16,7 @@ Reach out to me on [ LinkedIn, GitHub, email]
 
 Pronouns: She/her
 
-Fun Fact: I once spent a whole weekend building a match stick household so trust the amount of dedication I have when I set my mind to it , is mad.
+Fun Fact: I once spent a whole weekend building a match stick house, so trust the amount of dedication I have when I set my mind to it , is mad crazyy.
 
 Let's connect and build something amazing together!
 <!---
